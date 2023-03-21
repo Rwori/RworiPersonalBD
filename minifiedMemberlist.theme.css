@@ -11,7 +11,7 @@
         transition: transform var(--hover-animation-speed);
 }
 .membersWrap-3NUR2t:hover .members-3WRCEx {
-        transform: translateX(-40px);
+        transform: translateX(150px);
 }
 .membersWrap-3NUR2t .membersGroup-2eiWxl::after {
         content:"";
