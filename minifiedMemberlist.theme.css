@@ -2,7 +2,7 @@
 
 .content-1jQy2l .membersWrap-3NUR2t {
         min-width: unset;
-        width: 50px;
+        width: 20px;
         z-index: 1000;
         justify-content: right;
         flex-basis: unset;
@@ -21,7 +21,7 @@
         background: unset;
         background-color: var(--seperator-color);
         position: absolute;
-        left: -66px;
+        left: -36px;
         top: 29px;
         margin-left: 0px;
 }
