@@ -24,12 +24,7 @@
         left: -36px;
         top: 29px;
         margin-left: 0px;
-}
-.membersWrap-3NUR2t .members-3WRCEx .member-2gU6Ar {
-        background-color: unset;
-        margin-left: 0px;
-        transition: margin-left var(--hover-animation-speed);
-}
+
 .membersWrap-3NUR2t:hover .members-3WRCEx .member-2gU6Ar {
         margin-left: 8px;
 }
