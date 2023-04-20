@@ -21,7 +21,7 @@
         background: unset;
         background-color: var(--seperator-color);
         position: absolute;
-        left: -36px;
+        left: -300px;
         top: 29px;
         margin-left: 0px;
 }
@@ -31,7 +31,7 @@
         transition: margin-left var(--hover-animation-speed);
 }
 .membersWrap-3NUR2t:hover .members-3WRCEx .member-2gU6Ar {
-        margin-left: 8px;
+        margin-left: 100px;
 }
 .membersWrap-3NUR2t:hover .membersGroup-2eiWxl {
         transform: translateX(-6px);
