@@ -11,7 +11,7 @@
         transition: transform var(--hover-animation-speed);
 }
 .membersWrap-3NUR2t:hover .members-3WRCEx {
-        transform: translateX(-400px);
+        transform: translateX(-190px);
 }
 .membersWrap-3NUR2t .membersGroup-2eiWxl::after {
         content:"";
@@ -21,7 +21,7 @@
         background: unset;
         background-color: var(--seperator-color);
         position: absolute;
-        left: -300px;
+        left: -36px;
         top: 29px;
         margin-left: 0px;
 }
@@ -38,7 +38,7 @@
 }
 .membersWrap-3NUR2t .membersGroup-2eiWxl {
         cursor: default;
-        transform: translateX(100px);
+        transform: translateX(45px);
         transition: transform var(--hover-animation-speed);
         overflow: visible;
 }
