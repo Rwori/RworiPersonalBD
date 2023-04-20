@@ -36,12 +36,7 @@
 .membersWrap-3NUR2t:hover .membersGroup-2eiWxl {
         transform: translateX(-6px);
 }
-.membersWrap-3NUR2t .membersGroup-2eiWxl {
-        cursor: default;
-        transform: translateX(45px);
-        transition: transform var(--hover-animation-speed);
-        overflow: visible;
-}
+
 /*User changeable settings*/
 
 :root {
